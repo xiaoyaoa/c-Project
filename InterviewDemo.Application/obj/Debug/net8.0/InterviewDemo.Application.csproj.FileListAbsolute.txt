@@ -1,0 +1,11 @@
+E:\找工作\c#Project\InterviewDemo.Application\bin\Debug\net8.0\InterviewDemo.Application.deps.json
+E:\找工作\c#Project\InterviewDemo.Application\bin\Debug\net8.0\InterviewDemo.Application.dll
+E:\找工作\c#Project\InterviewDemo.Application\bin\Debug\net8.0\InterviewDemo.Application.pdb
+E:\找工作\c#Project\InterviewDemo.Application\obj\Debug\net8.0\InterviewDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\找工作\c#Project\InterviewDemo.Application\obj\Debug\net8.0\InterviewDemo.Application.AssemblyInfoInputs.cache
+E:\找工作\c#Project\InterviewDemo.Application\obj\Debug\net8.0\InterviewDemo.Application.AssemblyInfo.cs
+E:\找工作\c#Project\InterviewDemo.Application\obj\Debug\net8.0\InterviewDemo.Application.csproj.CoreCompileInputs.cache
+E:\找工作\c#Project\InterviewDemo.Application\obj\Debug\net8.0\InterviewDemo.Application.dll
+E:\找工作\c#Project\InterviewDemo.Application\obj\Debug\net8.0\refint\InterviewDemo.Application.dll
+E:\找工作\c#Project\InterviewDemo.Application\obj\Debug\net8.0\InterviewDemo.Application.pdb
+E:\找工作\c#Project\InterviewDemo.Application\obj\Debug\net8.0\ref\InterviewDemo.Application.dll
